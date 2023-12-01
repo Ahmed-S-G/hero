@@ -14,6 +14,7 @@
 body {
     font-family: 'Work Sans', sans-serif;
     text-transform: capitalize; 
+    color:red;
 }
 html {
    scroll-behavior: smooth;
